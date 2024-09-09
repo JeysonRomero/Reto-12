@@ -138,6 +138,7 @@ print('Listado de las 50 palabras que más se repiten:')
 for word, count in most_common_words:
     print(f'{word}: {count}')
 ```
-Cantidad de vocales
-Cantidad de consonantes
-Listado de las 50 palabras que más se repiten
+
+- Cantidad de vocales
+- Cantidad de consonantes
+- Listado de las 50 palabras que más se repiten
